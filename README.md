@@ -78,3 +78,5 @@ All calls to `admin` can only be do by the admin user, using the corresponding t
 Updated by Cypress on 2025-11-17T11:09:33.212Z
 
 Updated by Cypress on 2025-11-17T11:24:05.033Z
+
+Updated by Cypress on 2025-11-19T12:18:44.330Z
